@@ -31,26 +31,26 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Akumina.Caching">
-      <HintPath>..\..\SiteProvisioning.CollaborationSite\packages\Akumina\Akumina.Caching.dll</HintPath>
+      <HintPath>..\..\CustomPeopleFetcher\packages\Akumina\Akumina.Caching.dll</HintPath>
     </Reference>
     <Reference Include="Akumina.Common">
-      <HintPath>..\..\SiteProvisioning.CollaborationSite\packages\Akumina\Akumina.Common.dll</HintPath>
+      <HintPath>..\..\CustomPeopleFetcher\packages\Akumina\Akumina.Common.dll</HintPath>
     </Reference>
     <Reference Include="Akumina.Infrastructure">
-      <HintPath>..\..\SiteProvisioning.CollaborationSite\packages\Akumina\Akumina.Infrastructure.dll</HintPath>
+      <HintPath>..\..\CustomPeopleFetcher\packages\Akumina\Akumina.Infrastructure.dll</HintPath>
     </Reference>
     <Reference Include="Akumina.Interchange.Core">
-      <HintPath>..\..\SiteProvisioning.CollaborationSite\packages\Akumina\Akumina.Interchange.Core.dll</HintPath>
+      <HintPath>..\..\CustomPeopleFetcher\packages\Akumina\Akumina.Interchange.Core.dll</HintPath>
     </Reference>
     <Reference Include="Akumina.Interchange.Services">
-      <HintPath>..\..\SiteProvisioning.CollaborationSite\packages\Akumina\Akumina.Interchange.Services.dll</HintPath>
+      <HintPath>..\..\CustomPeopleFetcher\packages\Akumina\Akumina.Interchange.Services.dll</HintPath>
     </Reference>
     <Reference Include="Akumina.Logging">
-      <HintPath>..\..\SiteProvisioning.CollaborationSite\packages\Akumina\Akumina.Logging.dll</HintPath>
+      <HintPath>..\..\CustomPeopleFetcher\packages\Akumina\Akumina.Logging.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\SiteProvisioning.CollaborationSite\packages\Akumina\Newtonsoft.Json.dll</HintPath>
+      <HintPath>..\..\CustomPeopleFetcher\packages\Akumina\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
